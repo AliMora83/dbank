@@ -3,6 +3,9 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@import '@fortawesome/fontawesome-free/css/all.css'; /
+
+
 /* Add your custom global styles here */
 html,
 body {
@@ -21,12 +24,3 @@ a {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: light) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
-}

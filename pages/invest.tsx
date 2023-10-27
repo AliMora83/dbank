@@ -5,11 +5,20 @@ import UserInfo from './components/userInfo';
 import WalletInfo from './components/walletInfo';
 import InvestMarket from './components/investMarket';
 import ActiveInvest from './components/activeInvest';
+import Head from 'next/head';
 
 
 export default function Invest() {
   return (
     <div className='md:w-[50%] w-[90%] mx-auto'>
+            <Head>
+        <title>XRPL Token App</title>
+        <meta
+          name="description"
+          content="Diaspora Bank - Ripple Hackathon"
+        />
+        <link rel="icon" href="/db-logo.png" />		
+      </Head>
       <NavBar/>
       <p className='text-center mt-10 text-slate-600 text-lg'>Investment Wallet</p>
       <UserInfo/>

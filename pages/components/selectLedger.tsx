@@ -3,7 +3,7 @@ import React from 'react'
 export default function SelectLedger() {
   return (
     <div>
-      <div className="my-10 p-5 bg-slate-100 rounded-2xl">
+      <div className="my-10 p-5 bg-slate-100 rounded-2xl shadow-md border-4 border-white ">
         <div
           id="selectLedger"
           className="text-center space-y-4"

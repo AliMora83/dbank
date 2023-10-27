@@ -6,7 +6,7 @@ import StandbyAcc from './components/standbyAcc';
 
 export default function Transact() {
   return (
-    <div className='md:w-[50%] w-[90%] mx-auto'>
+    <div className='md:w-[50%] w-[90%] mx-auto mb-40'>
       <NavBar/>
       <div className=" bg-slate-100 my-10 p-5 rounded-2xl">
         <header className="flex flex-row justify-around items-center text-xs text-slate-600">

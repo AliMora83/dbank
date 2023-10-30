@@ -38,6 +38,7 @@ export default function StandbyAcc() {
 
   const handleClick = () => {
     getAccount();
+    alert('Button clicked')
   };
   return (
     <div>

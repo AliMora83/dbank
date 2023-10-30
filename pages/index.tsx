@@ -8,16 +8,6 @@ import UserInfo from "./components/userInfo";
 export default function Home() {
   return (
     <div className="md:w-[50%] w-[90%] mx-auto">
-      <Head>
-        <title>XRPL Token App</title>
-        <meta
-          name="description"
-          content="Diaspora Bank - Ripple Hackathon"
-        />
-        <link rel="icon" href="/db-logo.png" />		
-      </Head>
-      <NavBar />
-
       <UserInfo />
       <WalletInfo />
       <QuickService />

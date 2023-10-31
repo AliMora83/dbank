@@ -1,10 +1,8 @@
 import React from "react";
-import NavBar from "./NavBar";
 import QuickService from "./components/quickService";
 import WalletInfo from "./components/walletInfo";
 import InvestInfo from "./components/investInfo";
 import History from "./components/history";
-import Head from "next/head";
 
 export default function Wallet() {
   return (

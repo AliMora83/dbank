@@ -9,6 +9,7 @@ export default function History() {
           Recent Transactions
         </p>
         <div className="flex flex-col space-y-3 text-xs">
+  
           <div className="flex items-center justify-between border py-3 px-8 rounded-lg">
             <div>
               <p className='text-slate-400'>Personal Acc</p>

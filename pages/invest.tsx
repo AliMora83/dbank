@@ -1,11 +1,8 @@
 import React from 'react'
-import NavBar from './NavBar'
-import styles from '../styles/Home.module.css';
 import UserInfo from './components/userInfo';
 import WalletInfo from './components/walletInfo';
 import InvestMarket from './components/investMarket';
 import ActiveInvest from './components/activeInvest';
-import Head from 'next/head';
 
 
 export default function Invest() {

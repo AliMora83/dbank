@@ -1,8 +1,6 @@
 import React from "react";
-import NavBar from "./NavBar";
 import SelectLedger from "./components/selectLedger";
 import StandbyAcc from "./components/standbyAcc";
-import Head from "next/head";
 
 export default function Transact() {
   return (

@@ -1,5 +1,3 @@
-import Head from "next/head";
-import NavBar from "./NavBar";
 import History from "./components/history";
 import QuickService from "./components/quickService";
 import WalletInfo from "./components/walletInfo";
@@ -11,8 +9,7 @@ export default function Home() {
       <UserInfo />
       <WalletInfo />
       <QuickService />
-      <History />
-      
+      <History /> 
     </div>
   );
 }

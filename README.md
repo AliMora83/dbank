@@ -1,8 +1,19 @@
-### Diaspora Bank
+### Diaspora Bank Demo
 
 The bank is built on the principles of convenience, affordability, and accessibility, and aims to provide a wide range of financial services to the African diaspora community, including checking and savings accounts, remittance services, loans, and investment opportunities. 
 
-## Getting Started
+Link to demo [here](https://jsitor.com/hxO7ra7P14)
+
+
+## How to use
+
+- Click to open the above link. 
+- Click on 'Create Sender's Account' to generate account info.
+- Click on 'Create Receiver's Account' to generate account info.
+- Enter the amount you wish too send to Receiver. 
+- Copy and Paste Receiver's Account number into Destination Account and press send. 
+
+## How to install locally
 
 First, run the development server:
 

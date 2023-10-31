@@ -33,7 +33,7 @@ export default function History() {
               </h5>
             </div>
             <div>
-              <p className='text-slate-400'>24/Oct/2023</p>
+              <p className='text-slate-400'>20/Oct/2023</p>
               <h5 className="font-medium text-sm">
                 Family
               </h5>

@@ -10,7 +10,7 @@ Link to demo [here](https://jsitor.com/hxO7ra7P14)
 - Click to open the above link. 
 - Click on 'Create Sender's Account' to generate account info.
 - Click on 'Create Receiver's Account' to generate account info.
-- Enter the amount you wish too send to Receiver. 
+- Enter the amount you wish to send to Receiver. 
 - Copy and Paste Receiver's Account number into Destination Account and press send. 
 
 ## How to install locally
